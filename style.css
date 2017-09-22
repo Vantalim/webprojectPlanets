@@ -1,0 +1,49 @@
+body {
+  background: #1c242f;
+
+}
+
+h1 {
+  color: #FFFFFF;
+
+}
+
+#wrapHeader {
+  float: auto;
+  width: 600px;
+  height: 80px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  margin-bottom: 15px;
+  background-color: #000000;
+}
+
+#wrapThumbs {
+  float: auto;
+  width: 600px;
+  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 15px;
+}
+
+  /* Planetbilde på venstre side */
+  #planetLeft {
+    float: left;
+    width: 170px;
+    height: inherit;
+    margin-right: 15px;
+    margin-left: 0px;
+    background-color: #000000;
+  }
+
+  /* Tommel på venstre side */
+  #thumbLeft {
+    float: left;
+    width: 170px;
+    height: inherit;
+    margin-right: 15px;
+    margin-left: 0px;
+    background-color: #000000;
+  }
